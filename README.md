@@ -1,5 +1,3 @@
-# GrandPyBot-P7
-
 PROJET 7 : PARCOURS DA PYTHON OCR
 
 GrandPyBot is a little chatbot.
